@@ -33,6 +33,19 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "bde4d37c-89a0-48d3-9769-aea69b8879d5"
+      }
+    },
+    "owner": "jplimw",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/bde4d37c-89a0-48d3-9769-aea69b8879d5"
     }
   }
 }
